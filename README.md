@@ -14,7 +14,6 @@
 I engineer low-latency crypto arbitrage infrastructure, perpetual market-making bots, and decentralized trading systems for hedge funds, prop trading syndicates, and private liquidity desks.
 * 💬 **Telegram:** [@JanzebBlockdev](https://t.me/JanzebBlockdev)
 * 💼 **Fiverr Profile:** [Verified Quantitative Developer (Fiverr)](https://www.fiverr.com/jahanzaib313110)
-* 📧 **Email:** `jahanzaibchanna70@gmail.com`
 
 ---
 
@@ -162,5 +161,4 @@ Distributed under the **MIT License**. See `LICENSE` for details.
 * **GitHub:** [@jahanzaib-codes](https://github.com/jahanzaib-codes)
 * **Fiverr:** [Hire for Quant & Trading Bot Development](https://www.fiverr.com/jahanzaib313110)
 * **Telegram:** [@JanzebBlockdev](https://t.me/JanzebBlockdev)
-* **Email:** `jahanzaibchanna70@gmail.com`
 
