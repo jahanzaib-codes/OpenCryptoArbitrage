@@ -97,3 +97,4 @@ class FundingArbitrageScanner:
 
 
 funding_scanner = FundingArbitrageScanner()
+

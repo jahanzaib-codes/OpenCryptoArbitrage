@@ -39,3 +39,4 @@ class ArbitrageRiskManager:
 
 
 risk_manager = ArbitrageRiskManager()
+

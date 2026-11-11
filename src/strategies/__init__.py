@@ -10,3 +10,4 @@ __all__ = [
     "TriangularArbitrageScanner",
     "triangular_scanner"
 ]
+

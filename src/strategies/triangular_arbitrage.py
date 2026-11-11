@@ -44,3 +44,4 @@ class TriangularArbitrageScanner:
 
 
 triangular_scanner = TriangularArbitrageScanner()
+

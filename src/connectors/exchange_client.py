@@ -101,3 +101,4 @@ class MultiExchangeConnector:
 
 
 exchange_connector = MultiExchangeConnector()
+

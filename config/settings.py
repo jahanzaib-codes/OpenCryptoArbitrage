@@ -40,3 +40,4 @@ class ArbitrageSettings(BaseModel):
 
 
 settings = ArbitrageSettings()
+

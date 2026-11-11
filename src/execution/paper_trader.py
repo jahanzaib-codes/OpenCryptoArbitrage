@@ -55,3 +55,4 @@ class PaperExecutionBlotter:
 
 
 paper_blotter = PaperExecutionBlotter()
+

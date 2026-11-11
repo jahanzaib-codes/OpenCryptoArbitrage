@@ -49,3 +49,4 @@ class CrossExchangeSpreadScanner:
 
 
 spread_scanner = CrossExchangeSpreadScanner()
+
